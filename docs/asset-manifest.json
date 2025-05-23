@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/dajieum-blockchain/static/css/main.c5848198.css",
-    "main.js": "/dajieum-blockchain/static/js/main.71b87e76.js",
+    "main.css": "/dajieum-blockchain/static/css/main.415dcf7e.css",
+    "main.js": "/dajieum-blockchain/static/js/main.e55bef34.js",
     "index.html": "/dajieum-blockchain/index.html",
-    "main.c5848198.css.map": "/dajieum-blockchain/static/css/main.c5848198.css.map",
-    "main.71b87e76.js.map": "/dajieum-blockchain/static/js/main.71b87e76.js.map"
+    "main.415dcf7e.css.map": "/dajieum-blockchain/static/css/main.415dcf7e.css.map",
+    "main.e55bef34.js.map": "/dajieum-blockchain/static/js/main.e55bef34.js.map"
   },
   "entrypoints": [
-    "static/css/main.c5848198.css",
-    "static/js/main.71b87e76.js"
+    "static/css/main.415dcf7e.css",
+    "static/js/main.e55bef34.js"
   ]
 }
