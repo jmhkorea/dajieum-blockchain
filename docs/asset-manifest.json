@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dajieum-blockchain/static/css/main.c5848198.css",
+    "main.js": "/dajieum-blockchain/static/js/main.71b87e76.js",
+    "index.html": "/dajieum-blockchain/index.html",
+    "main.c5848198.css.map": "/dajieum-blockchain/static/css/main.c5848198.css.map",
+    "main.71b87e76.js.map": "/dajieum-blockchain/static/js/main.71b87e76.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5848198.css",
+    "static/js/main.71b87e76.js"
+  ]
+}
